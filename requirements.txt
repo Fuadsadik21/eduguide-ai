@@ -1,7 +1,7 @@
-setuptools>=68.0.0
-Flask==3.0.3
-pandas==2.2.2
-numpy==1.26.4
+setuptools
+Flask
+pandas>=2.0.0,<2.3.0
+numpy>=1.24.0,<2.0.0
 Flask==2.3.2
 pandas==2.0.3
 numpy==1.24.3
